@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 - I am a Cloud DevOps Engineer from India and Currently, I'm working as a freelancer.
-- Have a look to my works [Here](https://github.com/rajeever35?tab=repositories).
+- Have a look to my work [Here](https://github.com/rajeever35?tab=repositories).
 
 ### Contact me :
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeever35/ "LinkedIn")
